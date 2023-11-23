@@ -1,5 +1,3 @@
-# README for CSV Geonames Enhancer
-
 ## Overview
 Search for the Geonames IDs of city corrections, as well as verify current ROR assignments.
 
